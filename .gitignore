@@ -1,0 +1,33 @@
+# Hydra outputs
+outputs
+multirun
+
+# Data
+/data
+
+# Weights & Biases
+wandb
+
+# Editors
+.vscode
+
+# Python
+__pycache__
+.ipynb_checkpoints
+.mypy_cache
+*.egg-info
+
+# pytest
+.coverage*
+.pytest_cache
+htmlcov
+
+# Virtual environment
+venv
+
+# Streamlit
+.streamlit
+
+# Misc
+.DS_Store
+artifacts
